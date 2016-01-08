@@ -1,0 +1,22 @@
+{
+  "name": "practice_vue",
+  "authors": [
+    "himajin315 <himajin315@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "~1.0.13"
+  }
+}
